@@ -12,4 +12,4 @@ This is the first game I made with Unity. Enjoy, and have fun!
 
 ## Play the Game
 
-You can play the game online by clicking [here](https://play.unity.com/mg/other/heaven-baller)
+You can enjoy the game online by clicking [here](https://play.unity.com/mg/other/heaven-baller)
